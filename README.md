@@ -45,3 +45,6 @@ such as the Nanode or the Nuelectronics Ethernet Shield. For those, there is an
 ## License
 
 This code is released under the MIT License.
+
+***
+Note: Forked from https://github.com/knolleary/pubsubclient and and customized for the SCK 2.0
